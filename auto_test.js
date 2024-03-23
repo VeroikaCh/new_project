@@ -1,1 +1,1 @@
-function fnA();YY
+function fnA();Y
